@@ -111,7 +111,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Bioinformatician and Data Scientist"
   location         : "Ontario, Canada"
-  email            : "jshleap@gmail.com"
+  #email            : "jshleap@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
