@@ -7,6 +7,7 @@
 
 # Site Settings
 theme                    : minimal-mistakes-jekyll
+remote_theme             : "mmistakes/minimal-mistakes@4.13.0"
 locale                   : "en"
 title                    : "Pseudo Tribulations"
 title_separator          : "-"
@@ -172,6 +173,14 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  
 gems:
   - jekyll-paginate
   - jekyll-sitemap
