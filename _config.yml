@@ -6,8 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-#theme                    : minimal-mistakes-jekyll
+#theme                   : minimal-mistakes-jekyll
 remote_theme             : "mmistakes/minimal-mistakes@4.13.0"
+minimal_mistakes_skin    : "contrast" 
 locale                   : "en"
 title                    : "Pseudo Tribulations"
 title_separator          : "-"
@@ -93,7 +94,7 @@ author:
   linkedin         : "jshleap"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : "9426087/jose-sergio-hleap"
   steam            :
   tumblr           :
   twitter          : "jshleap"
@@ -218,6 +219,7 @@ tag_archive:
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
+
 #     - categories
 #     - tags
 #   layouts:
