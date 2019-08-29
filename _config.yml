@@ -21,7 +21,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -237,7 +237,7 @@ compress_html:
   ignore:
     envs: development
 
-
+search: true
 # Defaults
 defaults:
   # _posts
@@ -251,3 +251,12 @@ defaults:
       comments: true
       share: true
       related: true
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jshleap"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jshleap"
