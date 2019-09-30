@@ -15,6 +15,5 @@ research team. An effective communicator of scientific
 concepts to a wide audience.
 
 # My Timeline
-
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/My-timeline.jpg" alt="">{% endraw %}
+![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/assets/images/My-timeline.jpg"g) {: .full}
 
