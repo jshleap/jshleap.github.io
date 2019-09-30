@@ -1,3 +1,9 @@
+---
+title: "About"
+layout: categories
+permalink: /About/
+author_profile: true
+---
 # Summary
 A versatile and creative data-scientist and bioinformatician 
 fuses a background in biology, biochemistry and computer 
