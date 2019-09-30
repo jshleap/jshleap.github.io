@@ -10,5 +10,4 @@ concepts to a wide audience.
 
 # My Timeline
 
-![timeline](
-https://github.com/jshleap/jshleap.github.io/blob/master/assets/images/My-timeline.jpg)
+![timeline]("/assets/images/bio-photo.jpg")
