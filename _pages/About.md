@@ -8,3 +8,6 @@ providing innovative ideas, as well as leadership in the
 research team. An effective communicator of scientific 
 concepts to a wide audience.
 
+# My Timeline
+
+![timeline](/assets/images/My-timeline.jpg)
