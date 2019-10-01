@@ -2,10 +2,6 @@
 permalink: /about/
 title: "About"
 excerpt: "A bit of information about me"
-layouts_gallery:
-  - url: /assets/images/My-timeline.jpg
-    image_path: /assets/images/My-timeline.jpg
-    alt: "image"
 author_profile: true
 ---
 
