@@ -1,10 +1,4 @@
 ---
-title: "About"
-layout: categories
-permalink: /About/
-author_profile: true
----
----
 permalink: /about/
 title: "About"
 excerpt: "A bit of information about me"
