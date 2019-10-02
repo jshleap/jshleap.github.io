@@ -17,5 +17,5 @@ research team. An effective communicator of scientific
 concepts to a wide audience.
 
 # My Timeline
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg" alt="" class="full">{% endraw %}
+<img src="../assets/images/My-timeline.jpg">
 
