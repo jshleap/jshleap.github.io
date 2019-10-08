@@ -17,6 +17,6 @@ research team. An effective communicator of scientific
 concepts to a wide audience.
 
 # My Timeline
-<p align=center>
+<p align="center">
 <img src="../assets/images/My-timeline.jpg">
 </p>
