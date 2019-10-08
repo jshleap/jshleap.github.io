@@ -246,6 +246,12 @@ defaults:
       type: posts
     values:
       author_profile: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      author_profile: true
 
 footer:
   links:
