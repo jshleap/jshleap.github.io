@@ -240,7 +240,26 @@ compress_html:
 search: true
 # Defaults
 defaults:
-  # _posts
+  _posts:
+      path: ""
+      type: posts
+    values:
+      layout: splash
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  _pages:
+      path: ""
+      type: posts
+    values:
+      layout: splash
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   - scope:
       path: ""
       type: posts
