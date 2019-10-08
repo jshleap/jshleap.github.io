@@ -245,13 +245,12 @@ defaults:
       path: ""
       type: posts
     values:
+      layout: single
       author_profile: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 footer:
   links:
