@@ -5,7 +5,6 @@ excerpt: "A bit of information about me"
 author_profile: true
 ---
 
-
 # Summary
 A versatile and creative data-scientist and bioinformatician 
 fuses a background in biology, biochemistry and computer 
