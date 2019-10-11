@@ -1,5 +1,5 @@
 ---
-permalink: /Programming/
+permalink: /python/
 title: "Programming"
 excerpt: "Some of my code"
 defaults:
