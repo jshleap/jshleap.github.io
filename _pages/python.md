@@ -32,6 +32,12 @@ full chromosomes. So far it works well in chromosomes with less than
 https://github.com/jshleap/pyrs), is based on python and tries to solve
 some of the bigger than memory issues using the dask package.
 
+# ABeRMuSA
+I collaborated intensively with Alex Safatly to construct a multiple
+structure aligner for a big ser of structures. It is written in python
+and can be found at [https://github.com/AlexSafatli/ABeRMuSA](
+https://github.com/AlexSafatli/ABeRMuSA)
+
 # MODULER
 A python package to compute evolutionary modules in protein structures
 using graph theory. It uses the correlation between aminoacids position
