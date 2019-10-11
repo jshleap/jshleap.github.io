@@ -256,8 +256,8 @@ defaults:
       path: ""
       type: pages
     values:
-      permalink: /:title/
-      layout: splash
+      #permalink: /:title/
+      layout: single
       author_profile: true
 
 footer:
