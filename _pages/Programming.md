@@ -1,6 +1,6 @@
 ---
 permalink: /Programming/
-title: "Programing"
+title: "Programming"
 excerpt: "Some of my code"
 author_profile: true
 ---
