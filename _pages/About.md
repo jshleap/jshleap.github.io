@@ -2,7 +2,14 @@
 permalink: /About/
 title: "About"
 excerpt: "A bit of information about me"
-author_profile: true
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 ---
 
 # Summary
@@ -16,5 +23,6 @@ research team. An effective communicator of scientific
 concepts to a wide audience.
 
 # My Timeline
+<p align="center">
 <img src="../assets/images/My-timeline.jpg">
-
+</p>
