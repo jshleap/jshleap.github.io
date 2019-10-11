@@ -2,7 +2,14 @@
 permalink: /Programming/
 title: "Programming"
 excerpt: "Some of my code"
-author_profile: true
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 ---
 # ADvantage
 During my time as a fellow of Insight data science, I developed an app 
