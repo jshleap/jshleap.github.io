@@ -11,6 +11,10 @@ defaults:
       layout: splash
       author_profile: true
 ---
+Here you can find the description and links to *some* of my code. Some 
+of it is a bit of gradware, and I wrote it while learning how to code so
+it might be a bit rough. It will be cleaned up in the future.
+
 # ADvantage
 During my time as a fellow of Insight data science, I developed an app 
 to help with SEO campaigns, specifically, keyword search. It uses  web 
