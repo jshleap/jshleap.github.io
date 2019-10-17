@@ -25,3 +25,7 @@ concepts to a wide audience.
 <p align="center">
 <img src="../assets/images/My-timeline.jpg">
 </p>
+
+# Curriculum vitae & resume
+You can download my full academic CV [here](../assets/docs/CV_Hleap.pdf)
+and my Data Science resume [here](../assets/docs/Sergio_Hleap_resume.pdf). 
