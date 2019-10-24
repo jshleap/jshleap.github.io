@@ -6,6 +6,8 @@ main:
       url: /python/
     - title: "About"
       url: /About/
+    - title: "Research"
+      url: /Research/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
