@@ -7,7 +7,6 @@ tags:
   - PCA
   - LDA
   - NLP
-  - Supervised LDA
   - TF-IDF
   - Data challenge
   - Naive bayes
