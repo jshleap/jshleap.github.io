@@ -276,7 +276,6 @@ normalized_bow.head()
     (36374, 6475)
 
 
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -452,7 +451,6 @@ normalized_bow.head()
   </tbody>
 </table>
 <p>5 rows × 6475 columns</p>
-</div>
 
 
 With this matrix representation, we can more easily explore how common 
@@ -753,8 +751,6 @@ us.head()
 
     (7420, 2405)
 
-
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
