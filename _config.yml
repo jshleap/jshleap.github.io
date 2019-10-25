@@ -21,10 +21,15 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments                 :
-  provider               : "utterances"
-  utterances             :
-    theme                : "github-dark"# "github-light" #
-    issue_term           : "pathname"
+  provider               : "facebook"
+  facebook               :
+    appid                : # optional
+    num_posts            : # 5 (default)
+    colorscheme          : "dark"# "light" (default), "dark"
+#  provider               : "utterances"
+#  utterances             :
+#    theme                : "github-dark"# "github-light" #
+#    issue_term           : "pathname"
 
 # SEO Related
 google_site_verification :
