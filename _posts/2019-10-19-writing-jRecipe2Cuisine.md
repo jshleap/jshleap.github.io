@@ -1,7 +1,10 @@
 ---
 title: "Recipe2cuisine"
+categories:
+    - "Data Science"
 header:
   image: ../assets/images/recipes.jpg
+  teaser: ../assets/images/recipes.jpg
   caption: "Photo credit: [**Lake Tahoe Markets**](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwihteu40bDlAhVWsp4KHUgHDNwQjB16BAgBEAM&url=http%3A%2F%2Fwww.laketahoemarkets.com%2Frecipes.html&psig=AOvVaw3SqLMcLQRmRSCNXh68Opv4&ust=1571860117098759)"
 tags: 
   - PCA
