@@ -39,7 +39,7 @@ staticman:
   format                 : "yml"
   moderation             : true
   staticmanUrl           : "https://dev.staticman.net/v3/entry/github/jshleap/jshleap.github.io/master"
-  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
+  path                   : "/_data/comments/{options.slug}" (default)
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
