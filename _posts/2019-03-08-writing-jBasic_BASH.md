@@ -1,8 +1,7 @@
 ---
 title: "Very Basic BASH tutorial"
 categories:
-    - "Data Science"
-    - "HPC"
+    - "Programming"
 header:
   image: ../assets/images/bash_logo.png
   teaser: ../assets/images/bash_logo.png

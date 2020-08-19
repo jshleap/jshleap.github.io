@@ -23,7 +23,7 @@ concepts to a wide audience.
 
 # My Timeline
 <p align="center">
-<img src="../assets/images/My-timeline.png">
+<img src="https://github.com/jshleap/jshleap.github.io/raw/master/assets/images/My-timeline.png" width="800">
 </p>
 
 # Curriculum vitae & resume
