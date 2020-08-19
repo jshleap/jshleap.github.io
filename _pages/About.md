@@ -23,7 +23,7 @@ concepts to a wide audience.
 
 # My Timeline
 <p align="center">
-<img src="../assets/images/My-timeline.jpg">
+<img src="../assets/images/My-timeline.png">
 </p>
 
 # Curriculum vitae & resume
