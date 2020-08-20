@@ -256,12 +256,12 @@ There are many programs to do QC, and many specific tools for each one. For now 
 ## Trimmomatic
 This program does adaptive quality trimming, head and tail crop, and adaptor removal. You can check the documentation and download the program [here](http://www.usadellab.org/cms/index.php?page=trimmomatic). One of the advantages of trimmomatic is that it allows you to work with pair end sequences, retaining only matching pairs. Other advantage  is that it allows partial and overlapping matches for the searching of adapters. Before we run the program, let's check at some of the options. Here I am going to focus in pair-end reads, but it also works in single end:
  
- ### Efficiency and format flags
+### Efficiency and format flags
  This flags go before the invocation of the output/input files:
  1. -threads: this flag modifies the number of cpu threads that trimmomatic should use in the computations. A typical laptop computer have about 2 cores which should amount to 4 available threads.
  2.  [-phred33 | -phred64]: this flags tells trimmomatic the encoding of the file (see [above](#encoding))
  
- ### Change encoding option
+### Change encoding option
  If you want to read your file in one encoding and output it in a different one, this options are the ones you need to use:
 - TOPHRED33: Convert quality scores to Phred-33
 - TOPHRED64: Convert quality scores to Phred-64
