@@ -222,6 +222,11 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  tutorials:
+    output: true
+    permalink: /:collection/:path/
+
 search: true
 # Defaults
 defaults:
@@ -244,6 +249,14 @@ defaults:
       #permalink: /:title/
       layout: single
       author_profile: true
+   # _Tutorials
+  - scope:
+      path: ""
+      type: tutorials
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 footer:
   links:
@@ -253,3 +266,4 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jshleap"
+
