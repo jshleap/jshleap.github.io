@@ -1,7 +1,9 @@
 ---
 title: "Using BLAST in the command line"
-categories:
-    - "Bioinformatics"
+layout: category
+permalink: /categories/bioinformatics/
+taxonomy: bioinformatics
+
 header:
   image: ../assets/images/blast-logo.jpg
   teaser: ../assets/images/blast-logo.jpg
