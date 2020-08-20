@@ -1,8 +1,24 @@
-
+---
+title: "Python Fundamentals: First Interactions with Python"
+categories:
+    - "Python"
+header:
+  image: ../assets/images/python-logo.png
+  teaser: ../assets/images/python-logo.png
+  
+tags: 
+  - Variables
+  - Classes
+  - Functions
+  - Python
+  - Programming
+  - Newbie
+  - Carpentry
+---
 
 # Python Fundamentals: First Interactions with Python 
 
-Welcome to the first module of Python Programming of the SHARCNET Summer School!! 
+This tutorial was part of SHARCNET's Summer School 2020!! 
 This lesson deals with the first interaction of Python starting at the built-in data-structures such as variables, lists, and dictionaries. We will build up the knowledge you need, even if is your first time doing serious programming.
 
 ### Learning Objectives

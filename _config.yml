@@ -222,10 +222,10 @@ compress_html:
   ignore:
     envs: development
 
-collections:
-  tutorials:
-    output: true
-    permalink: /:collection/:path/
+#collections:
+#  tutorials:
+#    output: true
+#    permalink: /:collection/:path/
 
 search: true
 # Defaults
@@ -235,7 +235,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: categories
+      layout: single
       author_profile: true
       read_time: true
       comments: true
@@ -249,15 +249,15 @@ defaults:
       #permalink: /:title/
       layout: single
       author_profile: true
-   # _Tutorials
-  - scope:
-      path: ""
-      type: tutorials
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      read_time: true
+#   # _Tutorials
+#  - scope:
+#      path: ""
+#      type: tutorials
+#    values:
+#      layout: single
+#      author_profile: true
+#      share: true
+#      read_time: true
 
 footer:
   links:
