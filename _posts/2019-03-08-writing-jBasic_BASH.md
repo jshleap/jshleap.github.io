@@ -3,8 +3,8 @@ title: "Very Basic BASH tutorial"
 categories:
     - "Programming"
 header:
-  image: ../assets/images/bash_logo.png
-  teaser: ../assets/images/bash_logo.png
+  image: ../assets/images/Basic_BASH_post/bash_logo.png
+  teaser: ../assets/images/Basic_BASH_post/bash_logo.png
   
 tags: 
   - BASH
