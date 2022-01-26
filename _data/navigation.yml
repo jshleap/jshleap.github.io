@@ -10,8 +10,8 @@ main:
       url: /Research/
 #    -title: "Tutorials"
 #      url" /tutorials/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+    - title: "Blogs"
+      url: /blogs/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
