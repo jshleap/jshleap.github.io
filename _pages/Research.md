@@ -18,6 +18,16 @@ page is under construction still, so there the information is not detailed
 yet. I'll get to it as soon as I have some time.
 
 # Journal articles:
+## 2021
+* Hleap, J.S., Littlefair, J.E., Steinke, D., Hebert, P.D.N. Hebert & Cristescu, M.E. Assessment of
+current taxonomic assignment strategies for metabarcoding eukaryotes. Molecular Ecology Resources. 
+21: 2190-2203. DOI: [10.1111/1755-0998.13407]( https://doi.org/10.1111/1755-0998.13407)
+
+## 2020
+* Ben-Eghan, C, Sun, R., Hleap, J.S., Diaz-Papkovich, A., Munter, H.M., Grant A.V., Dupras, C.
+& Gravel, S. Don’t ignore genetic data from minority populations. Nature 585, 184-186. 
+DOI: [10.1038/d41586-020-02547-3](https://doi.org/10.1038/d41586-020-02547-3)
+
 ## 2018
 * Hleap, J.S., & Blouin, C. The response to selection in Glycoside 
 Hydrolase Family 13 structures: A comparative quantitative genetics 
