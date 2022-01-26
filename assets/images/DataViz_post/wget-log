@@ -1,0 +1,11 @@
+--2022-01-26 10:58:27--  https://i0.wp.com/digitalenvironment.org/wp-content/uploads/2020/07/visualisation_splash.png?resize=2048%2C749
+Resolving i0.wp.com (i0.wp.com)... 192.0.77.2
+Connecting to i0.wp.com (i0.wp.com)|192.0.77.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1628857 (1.6M) [image/png]
+Saving to: ‘visualisation_splash.png?resize=2048,749’
+
+             visualisation   0%[                                      ]       0  --.-KB/s               visualisation_splash.png?r 100%[=====================================>]   1.55M  --.-KB/s    in 0.08s   
+
+2022-01-26 10:58:32 (20.1 MB/s) - ‘visualisation_splash.png?resize=2048,749’ saved [1628857/1628857]
+
