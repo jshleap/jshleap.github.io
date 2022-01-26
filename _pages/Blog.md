@@ -1,6 +1,6 @@
 ---
 permalink: /blogs/
-title: "Blog"
+title: "All my Blogs"
 excerpt: "Check out some blogs I've made!"
 defaults:
   # _pages
