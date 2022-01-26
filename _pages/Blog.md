@@ -21,7 +21,7 @@ From histograms to dashboards: An introduction to data visualization with python
 This lesson deals with the first interaction of Python starting at the built-in data-structures such as variables, lists, and dictionaries. We will build up the knowledge you need, even if is your first time doing serious programming.
 
 ## [Basic bash](https://jshleap.github.io/programming/writing-jBasic_BASH/)
-This very basic tutorial is to introcuce a complete novice in the use of bash. The idea is that the person will be able to move around the Compute canada Clusters and be more or less comfortable with it. It is by no means comprehensive nor is going to make you a bash ninja, but it will allow you to deal with clusters, and some minor manipulations.
+This very basic tutorial is to introduce a complete novice in the use of bash. The idea is that the person will be able to move around the Compute canada Clusters and be more or less comfortable with it. It is by no means comprehensive nor is going to make you a bash ninja, but it will allow you to deal with clusters, and some minor manipulations.
 
 # Data Science Blogs
 
