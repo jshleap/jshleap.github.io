@@ -24,6 +24,9 @@ tags:
 
 ## About this Document
 
+This is the document version of a webinar I gave for sharcnet. The webinar link can be found [here](https://www.youtube.com/watch?v=0tpsMak-jSY) 
+and the jupyter notebook for this post can be found [here](/assets/notebooks/DataViz-doc.ipynb)
+
 ### What is NOT about
 1. In depth tutorial of visualization: Here we will see multiple different SIMPLE ways to visualize data
 2. Programming crash course: it assumes you know some python basics
