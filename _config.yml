@@ -39,8 +39,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : 'jshleap'
+#twitter:
+#  username               : 'jshleap'
 facebook:
   username               :
   app_id                 :
@@ -78,7 +78,7 @@ author:
   stackoverflow    : "9426087/jose-sergio-hleap"
   steam            :
   tumblr           :
-  twitter          : "jshleap"
+  twitter          :
   vine             :
   weibo            :
   xing             :
